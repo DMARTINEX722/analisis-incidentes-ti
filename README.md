@@ -46,3 +46,5 @@ Modelo Predictivo: Se entreno un modelo de regresion lineal simple para analizar
 Aplicacion Profesional: Este enfoque analitico demuestra como las areas de TI y la gestion tecnica pueden anticipar demoras operativas, optimizar la asignacion de recursos de soporte y fundamentar la toma de decisiones en metricas basadas en datos reales.
 
 Enlaces y Recursos
+https://colab.research.google.com/drive/1DsRmDb-Rd9D4g_zizlYXWVjITWl8DQ4K?usp=sharing
+
