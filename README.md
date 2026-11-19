@@ -48,3 +48,4 @@ Aplicacion Profesional: Este enfoque analitico demuestra como las areas de TI y 
 Enlaces y Recursos
 https://colab.research.google.com/drive/1DsRmDb-Rd9D4g_zizlYXWVjITWl8DQ4K?usp=sharing
 
+https://youtu.be/v-HcLHqgm2A
